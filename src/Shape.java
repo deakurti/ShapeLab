@@ -1,4 +1,4 @@
-public abstract class Shape { //why is this an error?//
+public abstract class Shape {
     private String type;
     public Shape(String type)
     {
