@@ -1,4 +1,4 @@
-public abstract class Shape {
+public abstract class Shape { //why is this an error?//
     private String type;
     public Shape(String type)
     {
@@ -11,5 +11,4 @@ public abstract class Shape {
     {
         return "I am a " + type + ".";
     }
-    //hi
 }
