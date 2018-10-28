@@ -1,4 +1,4 @@
-public class Ellipse extends Shape {
+/*public class Ellipse extends Shape {
     private int majoraxis;
     private int minoraxis;
     public Ellipse (int majoraxis)
@@ -19,5 +19,5 @@ public class Ellipse extends Shape {
     {
         return ((2 * Math.PI) * Math.sqrt(((majoraxis * majoraxis)* (minoraxis * minoraxis))/2));
     }
-}
+}*/
 
